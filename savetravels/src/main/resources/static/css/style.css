@@ -1,0 +1,67 @@
+* {
+    border: 0px;
+    padding: 2px;
+    text-align: left;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blue;
+
+}
+
+.edit{
+    color: green;
+}
+
+.detail table, th, td {
+    border: 0px;
+    padding: 4px;
+}
+
+table, th, td {
+    width: 50%;
+    border: 2px solid black;
+}
+
+.delete {
+    width: auto;
+    border: opx;
+}
+
+input[type=text] {
+    align-self: left;
+    width: 25%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+textarea {
+    align-self: left;
+    width: 25%;
+    height: 75px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+input[type=button] {
+    background-color: green;
+    color: white;
+    padding: 2px 4px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+input[type=submit]{
+    background-color: red;
+    color: white;
+    padding: 2px 4px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
